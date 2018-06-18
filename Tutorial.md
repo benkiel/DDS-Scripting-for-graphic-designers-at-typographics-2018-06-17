@@ -574,16 +574,16 @@ print(myCar.color)
 myCar.drive(500)
 myCar.drive(-500)
 print(myCar)
-```
+``
 
 Output:
 
-```
+``
 Blue
 I am driving 120 m/hour
 I am driving -20 m/hour
 I am a happy car
-```
+``
 
 [ Lots of context about Object Orientated Programming history ]
 
