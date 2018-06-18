@@ -548,7 +548,7 @@ The `__init__` is a special function name provided by Python.
 
 There is also ``__repr__`` which allows you to set what is returned by an object by default, such as when that object is printed:
 
-``py
+```py
 class Car():
 
     MAX_SPEED = 120
@@ -574,16 +574,16 @@ print(myCar.color)
 myCar.drive(500)
 myCar.drive(-500)
 print(myCar)
-``
+```
 
 Output:
 
-``
+```
 Blue
 I am driving 120 m/hour
 I am driving -20 m/hour
 I am a happy car
-``
+```
 
 [ Lots of context about Object Orientated Programming history ]
 
